@@ -1,0 +1,34 @@
+---
+title: "Reference Doc"
+format: 
+    html:
+        code-fold: true
+---
+
+# H1
+## H2
+### H3
+#### H5
+##### H6
+
+---------
+
+--->
+
+*********
+
+
+**bold**
+
+*italics*
+
+* bulletted list
+
+```{r}
+#| echo: true
+
+# Some basic code with options
+2 + 2
+```
+
+This is some more text
